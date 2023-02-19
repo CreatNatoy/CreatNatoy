@@ -1,4 +1,6 @@
-### Hi there 👋
+## Welcome to my Github.
+### Before reading my repositories, please read the repository's README.md file carefully.
+### Please be aware that these are educational projects that are not intended for commercial use or for market entry. If a project is labeled as teaching VR or Proton, it is unlikely that you will find any optimization, design patterns, or similar features.
 
 <!--
 **CreatNatoy/CreatNatoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
